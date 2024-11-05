@@ -4,15 +4,15 @@ The work was divided equally with each of us focused on certain parts. Everyone 
 
 Functions created:
 
-initCache() - worked on by Michael, and Matin
-worker() - worked on by Matin, Michael, and Vaibhav
-dispatcher() - worked on by Matin, Michael, and Vaibhav
-addIntoCache() - worked on by Matin and Vaibhav
-readFromDisk() - worked on by Matin and Michael
-deleteCache() - worked on by Matin and Michael
-getContentType() - worked on by Vaibhav
-getCacheIndex() - worked on by Michael and Matin
-main() - worked on by Michael, Vaibhav, and Matin
+initCache() - 
+worker() - 
+dispatcher() - 
+addIntoCache() - 
+readFromDisk() - 
+deleteCache() - 
+getContentType() - 
+getCacheIndex() - 
+main() - 
 
 Caching Policy:
 
