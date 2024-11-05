@@ -1,11 +1,5 @@
 CSCI 4061 Fall 2022 -> Project 3
 
-* Group Member #1: Michael Vang vang2891
-
-* Group Member #2: Vaibhav Jain jain0232
-
-* Group Member #3: Matin Horri horri031
-
 The work was divided equally with each of us focused on certain parts. Everyone partook in group meetings and contributed significantly in the sucess of the project. While functions were worked by one or two people, everyone convened and collaborated to understand code, issues, and debugging of the functions.
 
 Functions created:
